@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { BiSearchAlt2 } from 'react-icons/bi';
 import Loading from './Loading';
 import Searchbar from './SearchBar';
-import RecipeCard from './RecipeCard';
+import RecipeCard from './Recipecard';
 import { fetchRecipes } from '@/utils';
 import Button from './Button';
 

@@ -6,7 +6,7 @@ import Loading from '@/app/components/Loading'
 import Header from '@/app/components/Header'
 import { GiIceCreamScoop } from "react-icons/gi"
 import { BsPatchCheck } from "react-icons/bs"
-import RecipeCard from '@/app/components/RecipeCard'
+import RecipeCard from '@/app/components/Recipecard'
 import { useParams } from 'next/navigation'
 import { AiOutlineStar } from "react-icons/ai"
 import { useSession } from 'next-auth/react'

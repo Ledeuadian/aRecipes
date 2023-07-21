@@ -38,7 +38,6 @@ const LoginModal = ({isVisible,onClose}) => {
         <div
             className="
                 bg-white
-                bg-opacity-100
                 px-1
                 py-4
                 shadow
